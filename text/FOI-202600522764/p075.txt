@@ -1,0 +1,48 @@
+      Is it feasible to specify Hydrogenated Vegetable Oil or similar as a diesel
+       alternative?
+      There is a growing movement from the industry to move to more sustainable
+       fuels like HVO. Again, this will likely be driven by hyperscale requirements and
+       will be a balance of the risk (supply chain certainty for HVO likely to be riskier
+       than diesel) vs ESG commitments.
+      We have consulted with SEPA on the comparative attributes of both fuel
+       types, as there are positives and negatives to each in terms of greenhouse
+       gas/NO2 emissions and carbon e iciency.
+
+
+Water Considerations
+
+
+
+There has been a material shift in how the data centre industry thinks about water over
+the last ~2–5 years where it is looking to: reducing potable water use, replenishing local
+watersheds (where needed) and using non-potable or recycled water. This has been
+coupled with improved technologies such as hybrid cooling systems (utilising air-
+cooled chillers in places with temperate climates like Scotland) and liquid
+cooling (utilising closed loop systems) to re-use water.
+
+It is important to remember that, from a Scottish perspective, there is a disconnect
+between the reality of how much water is needed (and how innovative we need to be) vs
+the public perception.
+
+
+
+      Does the data centre industry accept direct pipe water supply from mains
+       connection?
+      Mains water connection is acceptable and common.
+      We are actively engaged with Scottish Water across our priority DC sites to
+       ensure that proposals are deliverable and do not have an adverse impact on
+       existing water supply
+
+
+      Is there likely to be pressure from industry to utilise abstraction from the
+       environment which would require pre – treatment?
+      There is clear and growing direction of travel for data centres to move toward
+       environmental abstraction or non-potable sources where feasible, even
+       in water-abundant regions like Scotland.
+      Major operators are actively pushing toward “water positive”
+       commitments, reducing reliance on potable supplies
+
+
+      Where opportunities align, could ﬁnal cleaned e luent water be speciﬁed as a
+       potential water alternative by industry?
+

@@ -1,0 +1,50 @@
+Thanks again for sharing your industry Charter.
+
+
+
+I have some queries from policy areas that it would be useful if you could respond to;
+
+
+
+Renewable Energy
+
+
+
+The Charter states; “Data centres require backup generation to ensure 24/7 availability
+during outages, typically diesel, but used infrequently”.
+
+
+
+       What are industry standards for relying on backup generation notionally in GB? Is
+        there a percentage of downtime annually that can be extrapolated?
+       What are industry standards for maintenance operation of backup generation
+        (e.g. monthly for X minutes) of full system?
+       Is it feasible to specify Hydrogenated Vegetable Oil or similar as a diesel
+        alternative?
+
+
+Water Considerations
+
+
+
+       Does the data centre industry accept direct pipe water supply from mains
+        connection?
+       Is there likely to be pressure from industry to utilise abstraction from the
+        environment which would require pre – treatment?
+       Where opportunities align, could ﬁnal cleaned e luent water be speciﬁed as a
+        potential water alternative by industry?
+       Are there any water resilience factors that need to be taken into account
+        (equivalent to dual power connection for example)?
+
+
+I’m dealing with multiple policy areas at present, but wanted to give sight of immediate
+questions from the above.
+
+
+
+Welcome your feedback.
+
+
+
+Best,
+

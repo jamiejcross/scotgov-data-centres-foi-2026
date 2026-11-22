@@ -1,0 +1,26 @@
+Data Centres & techUK
+
+
+techUK Data Centre Council                     Demystifying Data Centre                     Data Centre Reports
+                                               Planning Webinar Series
+o https://www.techuk.org/resource/announ       o https://www.techuk.org/resource/demyst     o By 2035, data centres have the potential
+  cing-the-new-techuk-data-centres-council-      ifying-data-centres-planning-call-for-       to contribute an additional £44 billion in
+  2026-2028.html                                 contributions.html                           GVA to the UK economy between 2025-35
+o Steer the Data Centres Programme, agree      o How the UK Planning System Treats Data     o (English DCs) 51% of surveyed sites use
+  on priorities for action, engage with the
+  resulting Working Groups;                      Centres?                                     waterless cooling systems.
+
+o Define the policy responses required for a   o Grid Connections, Energy Constraints and   o 64% use less than 10,000 m³ of water per
+  given issue – wider programme member           Planning Risk                                year – less than a typical leisure centre.
+  views will also be sought;
+                                               o Water, Energy Efficiency and               o 89% of sites either measure water use or
+o Bring focus to our data centres policy         Environmental Regulation                     deploy systems that do not require water
+  work and act as the first port of call for                                                  for cooling.
+  engagement with high-profile                 o Data Centres and Local Communities:
+  stakeholders; and                              Growth, Jobs and Trust                     o https://www.techuk.org/resource/techuk-
+o Represent the interests of the broader                                                      report-understanding-data-centre-water-
+                                               o Planning Reform and the Future of Data       use-in-england.html
+  membership                                     Centre Development
+
+Data Centres & techUK                                                                                                                      6
+

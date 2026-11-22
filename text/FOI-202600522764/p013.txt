@@ -1,0 +1,44 @@
+Strategic Context
+Scotland has a strong opportunity to lead in sustainable compute, driven by rising AI
+demand and signiﬁcant curtailed renewable energy. However, the CWG emphasised
+that Scotland must ﬁrst achieve clear internal alignment on what it can realistically
+deliver. From an inward-investment perspective, Scotland needs a credible,
+evidence-based proposition, setting out capability, capacity, strengths and constraints,
+to avoid engaging investors prematurely and risking market conﬁdence.
+
+
+
+A new Director General-level Strategic Small Working Group has been established to set
+high-level to consider the strategic approach.
+
+
+
+
+Key Headlines
+   Economic value must be central to all GDC activity; need for a coherent, cross-
+    agency articulation of “what Scotland wants” from data centre investment.
+   Power constraints remain the critical bottleneck, with NESO queue reform exposing
+    structural challenges and long timelines (many projects unable to connect until
+    ~2035).
+   Signiﬁcant opportunity exists to align curtailed wind, micro-grid solutions, and data
+    centre demand.
+   Lanarkshire identiﬁed as Scotland’s AIGZ by UKG.Initial indication had been for 5
+    AIGZs across the UK, but now possibility of up to 10 – brings wider challenges to
+    consider including supply chain
+   Waste heat reuse, planning readiness and supply chain opportunities remain key
+    di erentiators.
+   Agencies highlight the need for a clear proposition / pitch deck before further
+    investor engagement.
+   Strong interest from operators (e.g., CoreWeave) continues without active
+    promotion.
+
+
+
+Workstream Progress & Issues
+Investment Triage
+   Large pipeline remains, regardless of AIGZ announcement.
+   Aim to prioritise 4–5 high-potential opportunities in Scotland from a longlist of ~15-
+    20.
+   Indication Ministers expressing concern at absence of major international players in
+    curtailed-wind propositions.
+

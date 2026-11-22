@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Scottish Government data centre FOI annexes: search and index</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f7f5f0;--ink:#1d1c1a;--muted:#6b675f;--line:#dcd7cc;--card:#fffdf8;--acc:#1f5c4a;--mark:#f3d36b;--chip:#ece7dc}
+@media (prefers-color-scheme:dark){:root{--bg:#171715;--ink:#ebe8e1;--muted:#a19c91;--line:#3a3833;--card:#201f1c;--acc:#7cc4a9;--mark:#7a6316;--chip:#2c2b27}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 Inter,system-ui,sans-serif}
+header{padding:28px 20px 12px;max-width:1100px;margin:0 auto}
+h1{font:600 26px/1.2 "Source Serif 4",Georgia,serif;margin:0 0 6px}
+.sub{color:var(--muted);font-size:14px;margin:0}
+.sub a{color:var(--acc)}
+main{max-width:1100px;margin:0 auto;padding:0 20px 60px}
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin:18px 0 16px;flex-wrap:wrap}
+.tabs button{background:none;border:0;padding:10px 14px;font:500 14px Inter,sans-serif;color:var(--muted);cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px}
+.tabs button.on{color:var(--ink);border-color:var(--acc)}
+.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
+input[type=search]{flex:1 1 280px;padding:11px 14px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);font:15px Inter,sans-serif}
+select,.btn{padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);font:14px Inter,sans-serif;cursor:pointer}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin:6px 0 14px}
+.chip{background:var(--chip);border:0;border-radius:99px;padding:5px 11px;font-size:13px;color:var(--ink);cursor:pointer}
+.meta{color:var(--muted);font-size:13px;margin:4px 0 12px}
+.hit{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:10px}
+.hit h3{margin:0 0 6px;font:600 14px Inter,sans-serif;display:flex;gap:8px;align-items:baseline;flex-wrap:wrap}
+.tag{font:500 11px Inter,sans-serif;letter-spacing:.04em;text-transform:uppercase;padding:2px 7px;border-radius:4px;background:var(--chip);color:var(--muted)}
+.snip{font:13px/1.55 "JetBrains Mono",ui-monospace,monospace;white-space:pre-wrap;margin:6px 0 0;color:var(--ink)}
+mark{background:var(--mark);color:inherit;padding:0 1px;border-radius:2px}
+a.pl{color:var(--acc);cursor:pointer;text-decoration:none;font-weight:500}
+a.pl:hover{text-decoration:underline}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-weight:600;color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.04em;cursor:pointer;position:sticky;top:0;background:var(--bg)}
+td.d{white-space:nowrap;color:var(--muted)}
+.key{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--acc);border-radius:8px;padding:14px 16px;margin-bottom:12px}
+.key h3{margin:0 0 4px;font:600 16px "Source Serif 4",Georgia,serif}
+.key p{margin:4px 0;font-size:14px}
+#reader{position:fixed;inset:0;background:rgba(0,0,0,.45);display:none;z-index:9;padding:3vh 3vw}
+#reader .panel{background:var(--card);max-width:900px;height:94vh;margin:0 auto;border-radius:12px;display:flex;flex-direction:column;overflow:hidden}
+#reader .top{display:flex;gap:8px;align-items:center;padding:10px 14px;border-bottom:1px solid var(--line);flex-wrap:wrap}
+#reader .top strong{flex:1;font-size:14px}
+#reader pre{flex:1;overflow:auto;margin:0;padding:16px 18px;font:13px/1.55 "JetBrains Mono",ui-monospace,monospace;white-space:pre-wrap}
+.note{font-size:13px;color:var(--muted);margin-top:24px;border-top:1px solid var(--line);padding-top:12px}
+</style>
+</head>
+<body>
+<header>
+<h1>Data centre FOI annexes: search and index</h1>
+<p class="sub">Full text of two Scottish Government releases published in November 2026: <a href="https://www.gov.scot/publications/foi-202600522764/">FOI/202600522764</a> (147 pp., published 2 Nov) and <a href="https://www.gov.scot/publications/foi-202600522802/">EIR/202600522802</a> (36 pp., published 3 Nov). Cite page numbers from the original PDFs.</p>
+</header>
+<main>
+<div class="tabs" role="tablist">
+<button data-v="search" class="on">Search</button>
+<button data-v="index">Document index</button>
+<button data-v="key">Key passages</button>
+</div>
+
+<section id="v-search">
+<div class="bar">
+<input id="q" type="search" placeholder='Search, e.g. water, "public perception", Apatura, NESO' autocomplete="off">
+<select id="doc"><option value="">Both annexes</option><option value="FOI">FOI/202600522764</option><option value="EIR">EIR/202600522802</option></select>
+</div>
+<div class="chips" id="chips"></div>
+<div class="meta" id="meta"></div>
+<div id="results"></div>
+</section>
+
+<section id="v-index" hidden>
+<div class="bar"><input id="iq" type="search" placeholder="Filter by subject or date"></div>
+<div class="meta" id="imeta"></div>
+<table><thead><tr><th data-k="iso">Date</th><th data-k="subject">Item</th><th data-k="page">Page</th></tr></thead><tbody id="itable"></tbody></table>
+</section>
+
+<section id="v-key" hidden>
+<div id="keys"></div>
+</section>
+
+<p class="note">Text comes from the PDFs' text layer. About 30 image-only pages, mostly slides and email signatures, were added by OCR and are marked “[OCR of page image]”. Typographic ligatures are normalised so that a search for “significant” matches. Redactions appear as in the originals, e.g. “[Redacted - S.38(1)(b)]”.</p>
+</main>
+
+<div id="reader"><div class="panel">
+<div class="top"><strong id="rtitle"></strong><button class="btn" id="rprev">‹ Prev</button><button class="btn" id="rnext">Next ›</button><button class="btn" id="rcopy">Copy citation</button><button class="btn" id="rclose">Close</button></div>
+<pre id="rtext"></pre>
+</div></div>
+
+<script>
+let DATA=null, cur=null, lastTerms=[];
+const $=s=>document.querySelector(s);
+const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+const KEYS=[
+ {t:"Deputy Director, Domestic Climate Change: “clearly significant impacts and risks”",d:"FOI",p:95,r:"94–96",
+  s:"Email of 12 March 2026, 10:17 (“RE: Data Centres - Domestic Climate Change”), with header on p. 94 and signature block on p. 96. It raises just-transition concerns: local electricity bills and supply (Shetland is the comparison), water scarcity under climate change, and “modest” long-term local employment. This is the source of the PA/LBC quotes of 6 Nov 2026."},
+ {t:"Strategic risk register: “Green Data Centre Public Perception” (GD-028)",d:"FOI",p:22,r:"22",
+  s:"Appendix “Strategic Risks for Awareness” to the Crosscutting Working Group papers of 5 March 2026. Without clear, tangible evidence of the green benefits, “public perception will be poor” and environmental and social lobbying against data centres could increase. The other risks listed are GD-024 (barriers to investment), GD-026 (executive agency relationships) and GD-029 (pace of delivery). This is the source of the “strategic risk” reporting."},
+ {t:"Apatura’s industry “Scottish Green Data Centre Charter”",d:"FOI",p:43,r:"43, 48, 68",
+  s:"May 2026 emails in which Apatura shares the charter (p. 43). The Crosscutting Working Group discusses whether the Scottish Government should endorse it (p. 48, minutes of 17 June 2026, item 5). Apatura later reports that it has launched the charter (p. 68). This is relevant to the Ferret/APRS reporting on lobbying over the definition of a “green data centre”."},
+ {t:"Working group: “persistent negative public perception”",d:"FOI",p:28,r:"26–28",
+  s:"Minutes of the Green Data Centre and AI Growth Zone Crosscutting Working Group, 12 May 2026. These follow the Scottish election and plan a submission to new Ministers, then discuss spatial mapping."},
+ {t:"Green Data Centre and AI Growth Zone Crosscutting Working Group: minutes series",d:"FOI",p:1,r:"1, 10, 16, 24, 46",
+  s:"Meetings on 13 Nov 2025 (p. 1), 23 Jan 2026 (p. 10), 5 Mar 2026 (p. 16) and 12 May 2026 (p. 24) and 17 June 2026 (p. 46), plus the January 2026 terms of reference (p. 53) and the Green Data Centre Infrastructure Roadmap (p. 58). These show the government’s internal machinery for promoting data centres alongside the AI Growth Zone."},
+ {t:"techUK local government roundtable on data centre planning (EIR annex)",d:"EIR",p:1,r:"1–34",
+  s:"Slides from the roundtable that the National Planning Hub co-organised, with speakers including Shoosmiths on planning and The Data Lab. The EIR response says this was knowledge-sharing, not formal guidance to councils."}
+];
+fetch('index.json').then(r=>r.json()).then(d=>{DATA=d;init()}).catch(e=>{$('#meta').textContent='Could not load the index: '+e});
+function fold(s){return s.normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase()}
+function parse(q){const t=[];q.replace(/"([^"]+)"|(\S+)/g,(m,a,b)=>{t.push(fold(a||b))});return t.filter(x=>x.length>1)}
+function init(){
+ ['water','energy bills','"public perception"','Apatura','charter','"green data centre"','NESO','CoreWeave','DataVita','Auchtertool','moratorium','community','EIA','"just transition"','risk'].forEach(c=>{
+  const b=document.createElement('button');b.className='chip';b.textContent=c.replace(/"/g,'');b.onclick=()=>{$('#q').value=c;run()};$('#chips').appendChild(b)});
+ DATA.docs.forEach(d=>d.f=d.pages.map(fold));
+ $('#q').addEventListener('input',debounce(run,180));$('#doc').onchange=run;
+ renderIndex();renderKeys();
+ document.querySelectorAll('.tabs button').forEach(b=>b.onclick=()=>show(b.dataset.v));
+ const h=location.hash.slice(1);if(['index','key'].includes(h))show(h);
+ $('#meta').textContent=`${DATA.docs.reduce((a,d)=>a+d.pages.length,0)} pages indexed · ${DATA.items.length} emails and minutes catalogued`;
+}
+function show(v){document.querySelectorAll('.tabs button').forEach(b=>b.classList.toggle('on',b.dataset.v===v));['search','index','key'].forEach(x=>$('#v-'+x).hidden=x!==v);try{history.replaceState(null,'',v==='search'?location.pathname:'#'+v)}catch(e){}}
+function debounce(f,ms){let t;return()=>{clearTimeout(t);t=setTimeout(f,ms)}}
+function run(){
+ const terms=parse($('#q').value);lastTerms=terms;const dsel=$('#doc').value;const out=[];
+ if(!terms.length){$('#results').innerHTML='';$('#meta').textContent='Type to search. All terms must appear on the same page. Use "quotes" for phrases.';return}
+ DATA.docs.forEach(d=>{if(dsel&&d.id!==dsel)return;d.f.forEach((f,i)=>{if(terms.every(t=>f.includes(t))){let n=0;terms.forEach(t=>{n+=f.split(t).length-1});out.push({d,i,n})}})});
+ $('#meta').textContent=`${out.length} page${out.length===1?'':'s'} match`;
+ $('#results').innerHTML=out.slice(0,200).map(o=>{
+  const txt=o.d.pages[o.i];const f=o.d.f[o.i];const at=f.indexOf(terms[0]);
+  const s=Math.max(0,at-220),e=Math.min(txt.length,at+380);
+  const sn=(s>0?'… ':'')+txt.slice(s,e).replace(/\n{2,}/g,'\n')+(e<txt.length?' …':'');
+  const it=nearestItem(o.d.id,o.i+1);
+  return `<div class="hit"><h3><span class="tag">${o.d.id}</span><a class="pl" onclick="openPage('${o.d.id}',${o.i})">p. ${o.i+1}</a><span style="font-weight:400;color:var(--muted)">${it?esc(it.subject)+' · '+esc(it.date):''} · ${o.n} hit${o.n>1?'s':''}</span></h3><div class="snip">${hl(esc(sn),terms)}</div></div>`}).join('');
+}
+function nearestItem(doc,p){let best=null;DATA.items.forEach(it=>{if(it.doc===doc&&it.page<=p&&(!best||it.page>best.page))best=it});return best}
+function hl(html,terms){terms.forEach(t=>{const re=new RegExp(t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&').replace(/\s+/g,'\\s+'),'gi');html=html.replace(re,m=>`<mark>${m}</mark>`)});return html}
+function openPage(id,i){cur={d:DATA.docs.find(x=>x.id===id),i};drawPage();$('#reader').style.display='block'}
+function drawPage(){const {d,i}=cur;$('#rtitle').textContent=`${d.ref} annex, p. ${i+1} of ${d.pages.length}`;$('#rtext').innerHTML=hl(esc(d.pages[i]||'(blank page)'),lastTerms);$('#rtext').scrollTop=0;const m=$('#rtext mark');if(m)m.scrollIntoView({block:'center'})}
+$('#rprev').onclick=()=>{if(cur.i>0){cur.i--;drawPage()}};$('#rnext').onclick=()=>{if(cur.i<cur.d.pages.length-1){cur.i++;drawPage()}};
+$('#rclose').onclick=()=>$('#reader').style.display='none';$('#reader').onclick=e=>{if(e.target.id==='reader')$('#reader').style.display='none'};
+document.addEventListener('keydown',e=>{if($('#reader').style.display!=='block')return;if(e.key==='Escape')$('#rclose').click();if(e.key==='ArrowRight')$('#rnext').click();if(e.key==='ArrowLeft')$('#rprev').click()});
+$('#rcopy').onclick=async()=>{const {d,i}=cur;const c=`Scottish Government (2026) ${d.title.replace(' — Annex','')}, ${d.ref}, published ${d.published}, Annex, p. ${i+1}. Available at: ${d.page_url}`;try{await navigator.clipboard.writeText(c);$('#rcopy').textContent='Copied'}catch(e){$('#rtext').textContent=c+'\n\n'+$('#rtext').textContent}setTimeout(()=>$('#rcopy').textContent='Copy citation',1500)};
+let sortK='iso',sortD=1;
+function renderIndex(){
+ const q=fold($('#iq').value||'');
+ const rows=DATA.items.filter(it=>!q||fold(it.subject+' '+it.date).includes(q)).sort((a,b)=>{const x=a[sortK],y=b[sortK];return (x>y?1:x<y?-1:0)*sortD});
+ $('#imeta').textContent=`${rows.length} items. Click a page number to read it.`;
+ $('#itable').innerHTML=rows.map(it=>`<tr><td class="d">${esc(it.date)}</td><td>${esc(it.subject)}</td><td><span class="tag">${it.doc}</span> <a class="pl" onclick="openPage('${it.doc}',${it.page-1})">${it.page}</a></td></tr>`).join('');
+}
+$('#iq').addEventListener('input',debounce(renderIndex,150));
+document.querySelectorAll('th').forEach(th=>th.onclick=()=>{const k=th.dataset.k;sortD=sortK===k?-sortD:1;sortK=k;renderIndex()});
+function renderKeys(){$('#keys').innerHTML=KEYS.map(k=>`<div class="key"><h3>${k.t}</h3><p>${k.s}</p><p><span class="tag">${k.d}</span> pp. ${k.r} · <a class="pl" onclick="lastTerms=[];openPage('${k.d}',${k.p-1})">Open p. ${k.p}</a></p></div>`).join('')}
+</script>
+</body>
+</html>

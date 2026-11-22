@@ -1,0 +1,47 @@
+I know the SG ﬁnds it inappropriate to comment on open planning applications but the
+same setup is likely to be found it any other AI data centre of this size, either those
+already proposed or those preparing to ﬁle an application.
+
+
+
+I contacted SEPA for comment as well and I'm waiting for their response.
+
+
+
+Could you please send me a comment by the end of the day today or ﬁrst thing
+tomorrow (Tuesday) by the very latest?
+
+
+
+__________
+
+The developer Apatura ﬁled a planning application for a 300MW AI data centre located
+at [Redacted - S.38(1)(b)], close to the [Redacted - S.38(1)(b)] and next to a residential
+area. I crunched the numbers in the ﬁled EIA report on air quality where the applicant
+modelled the e ects of the 200 backup generators on the local air quality. I speciﬁcally
+looked at the generator speciﬁcations and the routine testing schedule described in the
+documents.
+
+
+
+Based on these, I calculated that the generators would release a staggering 288 tonnes
+of NOx (nitrogen oxide) gases a year just from routine testing operations, which
+would make the development a large-scale industrial polluter and place it ﬁrmly above
+SEPA's reporting threshold of 100 tonnes for yearly exhaust gas releases. It would make
+the "green" data centre one of Scotland's top ten emitters of this pollutant. That's
+more NOx than released by Shell’s natural gas liquids plant in Mossmorran or the gas-
+ﬁred Peterhead power station.
+
+
+
+I also calculated that to fulﬁl the testing schedule, any three of the generators would be
+operational for their 1- and 4-hour staggered scheduled testing for a total 8.5 hours
+every working day, releasing more than a tonne of NOx a day.
+
+
+
+Despite this, the local residents and nearby care facilities, which include the [Redacted
+- S.38(1)(b)] and [Redacted - S.38(1)(b)] (both just 350 metres from the site) and
+[Redacted - S.38(1)(b)] (directly adjacent to the site), would not experience more than
+just occasional moderate pollution levels, according to the study.
+

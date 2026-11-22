@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this finding aid, please cite it and the original Scottish Government releases."
+title: "Scottish Government data centre FOI annexes (November 2026): searchable text and index"
+type: dataset
+authors:
+  - family-names: Cross
+    given-names: Jamie
+    affiliation: University of Glasgow
+date-released: 2026-11-22
+version: "1.0.0"
+repository-code: "https://github.com/jamiejcross/scotgov-data-centres-foi-2026"
+url: "https://jamiejcross.github.io/scotgov-data-centres-foi-2026/"
+keywords:
+  - data centres
+  - Scotland
+  - freedom of information
+  - planning
+  - AI infrastructure
+references:
+  - type: report
+    title: "Green Data Centre guidance: FOI release (FOI/202600522764)"
+    authors:
+      - name: Scottish Government
+    date-published: 2026-11-02
+    url: "https://www.gov.scot/publications/foi-202600522764/"
+  - type: report
+    title: "Data centre guidance: EIR release (EIR/202600522802)"
+    authors:
+      - name: Scottish Government
+    date-published: 2026-11-03
+    url: "https://www.gov.scot/publications/foi-202600522802/"

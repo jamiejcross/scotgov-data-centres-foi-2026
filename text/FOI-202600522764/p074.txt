@@ -1,0 +1,49 @@
+From: [Redacted - S.38(1)(b)]
+Sent: 28 May 2026 14:30
+To: [Redacted - S.38(1)(b)]
+Cc: [Redacted - S.38(1)(b)]
+Subject: Re: Apatura Data Centre Material
+
+
+
+Hi [Redacted - S.38(1)(b)] – thanks for coming back, some interesting questions (now in
+green) with our responses below:
+
+
+
+The Charter states; “Data centres require backup generation to ensure 24/7 availability
+during outages, typically diesel, but used infrequently”.
+
+
+
+To set the scene, all of the standards are currently set by hyperscalers at a global level
+to ensure that they are designing their systems to minimise any risk of downtime to their
+customers - such as ScotGov or Apatura – and every other business and individual using
+their services.
+
+
+
+The requirement for backup generation for example is the same in the UK (where the
+grid is very resilient and there is very little risk of disruption) as in somewhere like India
+where outages at a grid level are much more common.
+
+
+
+      What are industry standards for relying on backup generation notionally in GB? Is
+       there a percentage of downtime annually that can be extrapolated?
+      At GB transmission level (including Scotland), true loss-of-supply events under
+       an N-1 secure network are extremely rare, and when translated to a “downtime
+       equivalent,” they are e ectively measured in seconds to a few minutes per year
+       (≪0.001%)
+
+
+      What are industry standards for maintenance operation of backup generation
+       (e.g. monthly for X minutes) of full system?
+      Industry standard is that generators are selectively tested on a schedule similar
+       to:
+           o Monthly Testing: A basic operational test at 50% load for one hour
+           o Quarterly Testing: A load bank test at 100% load for four hours
+           o Annual Testing: A full diagnostic test at 100% load for four hours,
+      Our ﬁndings through independent reports are that on this basis there are no
+       signiﬁcant air quality impacts, either on human health or ecology.
+

@@ -1,0 +1,101 @@
+    Action ID                              Action Summary                                      Owner             Status      Due date   Last Updated Latest Comments                                                                                                               Archived Comments
+
+
+                                                                                                                                                      05/03 - integration with existing planning information proposed via CWG forum using Planning
+                                                                                                                                                      improvement service Data . Consider wieghted scoring model. Inculsion of Developer, operator        08/12 - Assessment of required maps to be considered. To be pitched as a
+                                                                                                                                                      and investor data to the triage table                                                               one off position capturing total investment interest across Scotland.
+GDC_CWG_A_00 Ensure the map of Data Centre opportunities reflects a fully                                                                                                                                                                                  23/01 To include investor, incorporating power demand, to capture the
+                                                                                     [Redacted - S.38(1)(b)]   In Progress   May-26      05/03/2026
+1            compliant view of Scotland.                                                                                                              19/05 - Policy areas are to consider what data sets they hold that could be used to augment data    investment pipeline.
+                                                                                                                                                      centre mapping. For example, this could extend to; District Heat Networks; Existing/planned         27/02 - Agenda Item for March 2026 CWG
+                                                                                                                                                      Hydrogen Generation, Tech and entrepreneur ecosystems, NHS estate or other heat demand              13/11 - NEW
+                                                                                                                                                      sites.
+
+
+                                                                                                                                                      05/03 - ongoing development of GREEN crtiera discussed at CWG. Being developed in            23/01-Produce a Scotland wide high-level definition and criteria to support
+GDC_CWG_A_00                                                                                                                                          consultation with PARD                                                                       planning, triage and ministerial advice.
+             Develop a unified “Green Data Centre Definition”                        [Redacted - S.38(1)(b)]   In Progress   May-26      19/05/2026
+7                                                                                                                                                     19/05 - Apatura Charter discussed at the CWG and Policy areas asked to review and comment on
+                                                                                                                                                      their individual policy position.                                                            23/01-NEW
+GDC_CWG_A_00
+             Produce a Pre-Election Ministerial Briefing Pack                        [Redacted - S.38(1)(b)]     To Do        Feb-26     23/01/2026   23/01-Cover pipeline, constraints, enablers, economic opportunities and required strategic decisions.23/01-NEW
+8
+             Consider a SD-HIE Joint Tasking Group –Consider a SD-HIE
+GDC_CWG_A_00
+             Joint Tasking Group – With a focus on Strategic Review of               [Redacted - S.38(1)(b)]     To Do        Apr-26     23/01/2026   23/01-NEW                                                                                           23/01-NEW
+9
+             Opportunity Sites across Scotland
+GDC_CWG_A_01       Awaiting confirmation from NESO on Frontier Energy for GDC
+                                                                                     [Redacted - S.38(1)(b)]   In Progress    Mar-26     03/03/2026   03/03-NEW                                                                                           03/03-NEW
+0                  initial call
+GDC_CWG_A_01       Desired Benefits to be established for overall delivery and
+                                                                                     [Redacted - S.38(1)(b)]     To Do       May-26      12/03/2026   03/03 - Raised at CWG
+2                  considered at community level
+GDC_CWG_A_01       Finalise 26/27 Delivery Plan and agree Delivery Parter (SE) and
+                                                                                     [Redacted - S.38(1)(b)]     To Do       May-26      12/03/2026   03/03 - Raised at CWG
+3                  wider CWG ownership
+GDC_CWG_A_01
+                   [Redacted - S.29]                                                 [Redacted - S.38(1)(b)]     To Do       May-26      12/03/2026   03/03 - Raised at CWG
+4
+
+GDC_CWG_A_01 Governance Model to be approved at Digital Connectivity Steering
+                                                                              [Redacted - S.38(1)(b)]            To Do        Apr-26     12/03/2026   03/03 - Raised at CWG
+5            Board and development of AIGZ governance with UKG to follow
+
+             Develop the triage list by supplementing with data held across                                                                           03/03 - Raised at CWG
+GDC_CWG_A_01
+             relevant teams (PARD, Digital Connectivity Data Team among              [Redacted - S.38(1)(b)]     To Do       May-26      12/03/2026
+6
+             others). Maximise value of the resource.                                                                                                 19/05 - Triage list created. Lines on the Investment impact of policy decisions to be considered.
+
+             Explore work undertaken elsewhere (within DECC) around
+GDC_CWG_A_01
+             community engagement relating to wind farms and identify                [Redacted - S.38(1)(b)]     To Do        Apr-26     12/03/2026   03/03 - Raised at CWG
+7
+             opportunities to align with data centre development proposals.
+
+             Agree process and ownership around engagement with project
+GDC_CWG_A_01 teams relating to commercial terms such as access to rack space
+                                                                             [Redacted - S.38(1)(b)]             To Do       May-26      12/03/2026   03/03 - Raised at CWG
+8            and similar opportunities to maximise the value of the
+             infrastructure to Scotland’s ecosystem.
+
+GDC_CWG_A_01 Post-Election Ministerial Submission to be drafted, outlining the
+                                                                                     [Redacted - S.38(1)(b)]     To Do        Jun-26     19/05/2026
+9            need for firm decisions on progressing with Data Centres.
+
+GDC_CWG_A_02 Develop intelligence of industry approach to energy and water
+                                                                               DECC/Digital Connectivity         To Do        Jun-26     19/05/2026   19/05 - Agreed at May CWG
+0            requirements.
+             Commission analysis to project potential data centre water needs
+GDC_CWG_A_02 (national and local) mapped against existing water
+                                                                               DECC/Digital Connectivity         To Do        Jun-26     19/05/2026   19/05 - Agreed at May CWG
+1            resources/availability and projected risks to these resources due
+             to climate change.
+
+             Energy to commission further analysis of the data centres’ energy
+             requirements under a range of scenarios, against the level of
+GDC_CWG_A_02 renewable energy likely to be generated in Scotland over the next
+                                                                               DECC/Digital Connectivity         To Do        Jun-26
+2            two decades; and taking into account an estimate of the likely
+             extra demands on renewable energy of policies such as heat
+             pumps, electric vehicles and other renewable energy demands.
+
+
+             Community Impacts (1) We propose a case study approach, that
+             illustrates both the potential costs/adverse impacts and benefits of
+             a data centre on a local community; (2) Explore policy steps to
+GDC_CWG_A_02
+             mitigate any disproportionate adverse impacts such as water or       DECC/Digital Connectivity      To Do        Jun-26
+3
+             energy shortages; and (3) We should stress test whether current
+             community consultation measures are adequate to ensure that
+             communities have a voice.
+
+
+             Policy areas are to review and comment on the Apatura Charter
+GDC_CWG_A_02 discussed at the meeting and provide a policy position ahead of
+                                                                             [Redacted - S.38(1)(b)]           In Progress    Jun-26                  Actions 24 - 31 originating from May CWG Meeting.
+4            the June CWG meeting – Written feedback to be provided by 2nd
+             June to allow input into agenda papers.
+

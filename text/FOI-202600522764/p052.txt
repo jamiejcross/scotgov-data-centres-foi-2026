@@ -1,0 +1,13 @@
+                 Decision     Decision
+   Decision ID                              Owner             Decision Forum               Decision Description     Documents      Approved by                                                                       Link 1                                                                                                   Link2
+                  Date         Status
+
+                                                          GDC and AIGZ Crosscutting                               ToR
+GDC_CWG_D_001    13/11/2025   Approved   [Redacted - S.38(1)(b)]                      Approval of ToR                           CWG Members
+                                                                 Working Group                                    Minutes
+                                                                                                                                                 2025-11-13 - Green Data Centre and AI Growth Zone (AIGZ) Crosscutting Working Group - Actions and Decisions details - Objective   Green Data Centres - GDC and AIGZ - Terms of Reference - V1.0 details - Objective
+GDC_CWG_D_002
+GDC_CWG_D_003
+GDC_CWG_D_004
+GDC_CWG_D_005
+

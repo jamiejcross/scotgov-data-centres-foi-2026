@@ -1,0 +1,40 @@
+Action ID     Action Description                                         Owner
+GDC_CWG_A_007 [Redacted - S.29]                                          [Redacted -
+                                                                         S.38(1)(b)]
+GDC_CWG_A_008 Produce a Pre-Election Ministerial Brieﬁng                 [Redacted -
+              Pack - Cover pipeline, constraints, enablers,              S.38(1)(b)]
+              economic opportunities and required strategic
+              decisions.
+
+GDC_CWG_A_009         Consider a SD-HIE Joint Tasking Group – with a     [Redacted -
+                      focus on Strategic Review of Opportunity Sites     S.38(1)(b)]
+                      across Scotland
+
+
+
+
+Previous Action Review
+     GDC_CWG_A_001: Ensure the map of Data Centre opportunities reﬂects a fully
+      compliant view of Scotland.
+          o In progress. To include investor, incorporating power demand, to capture
+              the investment pipeline.
+     GDC_CWG_A_002 - Liaise with DITI Investment Team on Investment triaging
+      approach
+          o In progress. Triage model being reﬁned with SDI input, led by SG
+          o [Redacted - S.38(1)(b)] taking on SE responsibility from [Redacted -
+              S.38(1)(b)].
+     GDC_CWG_A_003 - SE to include SG energy on NESO discussions regarding
+      frontier energy options.
+          o No change
+     GDC_CWG_A_004 - Capture lessons learned from the withdrawn AI project.
+          o Proposed for closure, with follow-up engagement with SDI to capture
+              practical learning for future investor handling.
+     GDC_CWG_A_005 - Conﬁrm CCS policy status and planning requirements.
+          o Proposed for closure Ongoing engagement with Hydrogen Policy;
+              proposal to close action as work is now integrated into broader
+              mapping.
+     GDC_CWG_A_006 - Critical Path: Deﬁne priority activities and dependencies for
+      CWG success.
+          o proposed for closure - Roadmap produced and will be enhanced as
+              work transitions into the wider programme roadmap.
+

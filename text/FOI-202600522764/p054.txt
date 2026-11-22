@@ -1,0 +1,41 @@
+Actions from Last Meeting
+ Action ID    Raised                Action Summary                 Owner Team(s)             Owner     Status      Due date Latest Comments
+
+                   Ensure the map of Data Centre                                                                             08/12 - Assessment of required maps to be considered. To
+GDC_CWG                                                                                [Redacted -
+        13/11/2025 opportunities reflects a fully compliant     Digital Connectivity                 In Progress   Mar-26    be pitched as a one-off position capturing total investment
+_A_001                                                                                 S.38(1)(b)]
+                   view of Scotland.                                                                                         interest across Scotland.
+
+
+GDC_CWG            Liaise with DITI Investment Team on                                 [Redacted -
+        13/11/2025                                              Scottish Enterprise                  In Progress    Jan-26   15/01 – In development with update in January 2026 CWG
+_A_002             Investment triaging approach                                        S.38(1)(b)]
+
+
+                   SE to include SG energy on NESO
+GDC_CWG                                                                                [Redacted -                           15/01 – SE awaiting agreement with NESO on call to be set
+        13/11/2025 discussions regarding frontier energy        Scottish Enterprise                    To Do       Feb-26
+_A_003                                                                                 S.38(1)(b)]                           before closing action.
+                   options.
+
+                                                                                                                             08/12 - two examples (AWS and Microsoft) which lessons
+GDC_CWG            Capture lessons learned from the                                  [Redacted -                             might be drawn from. Lessons to be captured within the
+        13/11/2025                                              Digital Connectivity                 In Progress    Jan-26
+_A_004             withdrawn AI project.                                             S.38(1)(b)]                             Digital Connectivity Portfolio Lessons Log and shared with
+                                                                                                                             CWG members accordingly
+
+GDC_CWG            Confirm CCS policy status and planning                              [Redacted -
+        13/11/2025                                        Energy - Hydrogen                            To Do       Dec-25    15/01 - Pending Update
+_A_005             requirements.                                                       S.38(1)(b)]
+
+GDC_CWG            Critical Path: Define priority activities and                     [Redacted -
+        13/11/2025                                               Scottish Enterprise                 In Progress   Feb-26    15/01 - In progress, Slide 6 of CWG provides latest position
+_A_006             dependencies for CWG success.                                     S.38(1)(b)]
+
+
+
+ Green Data Centre and AI Growth Zone - Crosscutting Working Group - Action and Decision Log
+
+Scottish Government | Riaghaltas na h-Alba                                                                                                                                                  2
+

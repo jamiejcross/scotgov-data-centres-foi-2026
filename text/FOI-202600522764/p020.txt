@@ -1,0 +1,45 @@
+     The table is useful but should capture developers, operators and investors, and
+      its current RAG criteria need strengthening to include grid capacity and queue
+      position, site scale, and environmental and water considerations, alongside a
+      clearer, communicable deﬁnition of a “green” data centre.
+     Uncertainty around planning data sources was noted, including access to local
+      authority systems and integration with wider datasets.
+     Continued stakeholder engagement through the CWG remains essential to
+      broaden external input and secure sustained commitment.
+
+
+
+2.2 Emerging Requirements
+
+     Emerging requirements focus on developing a live, data-driven status view,
+      drawing on planning and Improvement Service datasets, with a clear and explicit
+      purpose around delivery proximity, scale, prioritisation and value leverage.
+     [Redacted - S.29]
+     The system must become dynamic and data-led, supported by a clear purpose
+      statement and complemented by visibility above the triage through an SG-level
+      strategic risk register.
+
+
+
+Data Centre Mapping and Wider Opportunity
+Key Points
+
+
+     [Redacted - S.29]
+     An update was provided on the UKG Data Centre Strategy, alongside rising
+      scrutiny from climate and energy NGOs, highlighting the need for clearer
+      deﬁnitions and appraisal frameworks.
+     Key energy policy updates include the SSEP delay to next autumn and
+      publication of the transitional RESP.
+     [Redacted - S.38(1)(b)] has commissioned Frazer Nash to assess economic
+      impacts, with potential SG funding available for further beneﬁts analysis.
+
+
+Beneﬁt Realisation and Community Beneﬁts
+
+
+     Data centre projects must balance direct project value with wider economic and
+      community beneﬁts.
+     Stronger focus is needed on Community Wealth Building and alignment with
+      industrial strategy.
+

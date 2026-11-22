@@ -1,0 +1,7 @@
+However, in the unlikely event of a power outage when 180 generators would switch on,
+all of data centre's neighbours could be exposed to high levels of nitrogen dioxide
+pollution, ranging from 11 to 44 times the healthy hourly limit of 200 micrograms per
+cubic metre of air in the worst case scenario. At these concentrations, the pollution
+would be visible as a reddish haze and could irritate or injure airways, especially in
+sensitive populations like the elderly and children.
+

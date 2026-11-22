@@ -1,0 +1,45 @@
+It’s excellent to see that such clear and thoughtful analysis is going into the impacts,
+both positive and negative, of data centres both nationally and locally. Thank you for
+sharing them.
+
+
+
+Having looked at the documents, there are clearly signiﬁcant impacts and risks and,
+considering our experience of just transition work over the last few years, I have various
+concerns about the way forward.
+
+
+
+The ﬁrst is the part that talks about the likelihood of rising energy bills for locals. There is
+a clear just transition risk here, considering the prevalence of fuel poverty in the country
+already- and I’m conscious that is about to get worse as energy bills rise in the wake of
+the middle east conﬂict. An example that is often highlighted to us as an example of
+unjust transition, is that of Shetland, where there is extensive wind development
+o shore (which can disrupt other activities like ﬁshing) and yet locals have some of the
+highest electricity bills and fuel poverty in the country. Depending on location, there is a
+clear risk here that locals bear the brunt of increased electricity prices- or even a
+shortage of energy, or unreliable power- while seeing little direct beneﬁt from ‘hosting’
+the data centre. I would suggest that there needs to be a really clear system for
+protecting locals from increased energy prices and power shortages, as part of a deal to
+host the centre. That’s not just about grid upgrades, it’s about demand and supply.
+
+
+
+The second is water. I appreciate the description below, where part of being a green
+data centre is about e icient and minimal use of water- and that’s welcome. The hard
+fact is that, even taking data centres completely out of the equation, Scotland is facing
+water shortages in multiple and growing parts of the country, due to climate change.
+Last year, water shortages in some parts of the country started in April- the earliest ever.
+And some rivers are already under strain from multiple industries (renewable energy,
+whisky, agriculture) so that ﬁsheries, biodiversity and the environment are destroyed
+downstream. Those e ects are already set to become much worse. Add a water-hungry
+data centre and, even if it is comparatively e icient, it could badly impact other water-
+dependent industries and livelihoods. I note in the slides that in Australia, data centre
+construction is dependent on guarantees of proportional work like reservoir investment
+and other management. That seems like a really fruitful route to explore. I would also
+suggest that planning and impacts assessments take account of the latest Met O ice
+assessments of weather changes to come- the Met O ice provide predictions mapped
+to a local level, up to at least 2050. When planning, we shouldn’t erroneously start from
+a baseline of current water availability, but we should build in future increasing
+shortages.
+

@@ -1,0 +1,17 @@
+Focus: 4 box model
+1.The AI-producing economy - at the core of the AI-producing economy are organisations that actively develop AI
+models, software, and platforms. These may include startups building generative AI tools, research labs creating new
+machine learning algorithms, or companies specialising in high-value applications such as diagnostic imaging,
+autonomous systems, or AI-driven design.
+2.The AI-using economy - this includes organisations that integrate existing AI technologies into their operations to
+enhance productivity, customer service, logistics, or decision-making. These firms may use machine learning to
+optimise logistics, employ chatbots for customer service, or analyse large datasets for business intelligence. For
+example, financial services firms deploying AI for fraud detection or retailers using recommendation algorithms fall
+into this category.
+3.Enabling Infrastructure - the infrastructure domain is the physical and digital backbone needed to develop, train,
+deploy, and operate AI systems. This includes both the hardware necessary to develop and run AI solutions,
+alongside the compute and telecommunication infrastructure that are required for producing and using AI across the
+economy. Important examples include datacentres and 5G.
+4.Enabling Services - this part of the economy involves organisations developing and offering services to support the
+development and adoption of AI. For example, firms offering training or developing AI risk assurance tools.
+

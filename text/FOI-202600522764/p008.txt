@@ -1,0 +1,52 @@
+Need clarity on development expenditure (DevEx) and upfront costs (approx. £100M) to
+gauge commitment.
+
+Importance of distinguishing brokers/middlemen from actual builders—follow the cash,
+not announcements.
+
+
+
+A reporting checklist is planned to assess conﬁdence in the investment pipeline.
+
+Robust assessment required: most projects unlikely to meet aggressive timelines (e.g.,
+deployment by 2027).
+
+Data centres dominate the demand queue, mixing credible and speculative projects risk
+of crowding out viable ones.
+
+
+
+Explore strategic pipeline mapping and NESO data access (subject to NDAs).
+
+Consider marketing the grid queue (payments to swap positions) with legal implications
+noted.
+
+Alternative energy solutions (microgrids, distributed compute) have longer lead times
+but could scale quickly. Even with private energy networks, grid backup for resiliency
+remains essential.
+
+
+
+Example: hyperscale AI-focused DC project withdrew after two years due to lack of
+demand, which highlights the speculative nature.
+
+Smaller scale propositions potentially o er more deliverables and beneﬁts for local
+supply chains.
+
+
+
+Skills availability (digital, engineering, construction) is critical for site selection.
+
+Scottish universities and AI expertise are well connected, but need better understanding
+of skills demand and timelines. ([Redacted - S.38(1)(b)] and [Redacted - S.38(1)(b)] to
+chat separately on this)
+
+Construction capacity is a concern—Irish and European ﬁrms acquiring Scottish
+companies (e.g., Taylor & Fraser acquisition).
+
+
+
+Microgrid solutions may involve ECU rather than local authorities.
+
+Interest in CO₂ capture from DC power (Storegga/Acorn hubs).
+

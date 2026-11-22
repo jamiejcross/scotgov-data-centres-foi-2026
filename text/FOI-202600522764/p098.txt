@@ -1,0 +1,50 @@
+•       seeks to minimise water consumption
+
+•       supports the re-use of excess heat for applications
+
+may be used by planning authorities when considering green data centre applications
+
+
+
+Yes, we are engaged with water policy colleagues as well as Scottish Water. The current
+draft of forthcoming AI Strategy infrastructure chapter has this excerpt below relating to
+water;
+
+
+
+“Water infrastructure
+
+
+
+As AI adoption accelerates, ensuring that supporting infrastructure is developed in a
+water-responsible manner in Scotland is of paramount importance. The growing
+presence of data centres brings increased demand for water resources, making
+sustainable management of this precious asset a critical consideration. Scottish Water
+is therefore advising the data centre industry on several fronts: guiding location
+decisions to support the most sustainable use of water; encouraging the reuse of
+treated wastewater; and promoting the adoption of closed-loop systems to reduce
+overall demand”.
+
+
+
+The piece around induced and direct beneﬁts probably meris a discussion. There is a
+very limited evidence base around AI infrastructure globally given it is a new
+technology. It leans more towards attracting digital tech (and broader) investment
+levels to sit in proximity to the data centres. Most local authorities we are dealing with
+see these as catalytic investments and we are working with enterprise agencies to
+support.
+
+
+
+Best,
+
+
+
+[Redacted - S.38(1)(b)]
+
+
+
+[Redacted - S.38(1)(b)]
+
+Digital Infrastructure and Internet of Things Policy Lead
+

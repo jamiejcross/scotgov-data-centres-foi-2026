@@ -1,0 +1,46 @@
+ GDC_CWG_A_006 Critical Path: Define priority activities and                  [Redacted -
+               dependencies for CWG success.                                  S.38(1)(b)]
+
+1. Introductions, Purpose and Approval of Terms of Reference
+
+
+      Chair emphasised the need for cross-government and agency collaboration to
+       maximise investment opportunities and economic beneﬁts of Green Data Centre
+       opportunity,
+      Terms of Reference approved by members
+
+
+2. Debrief of Ministerial Meeting with DataVita and CoreWeave
+
+
+      Director of Economic Development noted Data Centre opportunity has attracted
+       attention at the highest levels, including ministers and the First Minister, due to
+       its scale and strategic importance.
+      Key priority for investors is speed of deployment to meet their expectations.
+       Scotland beneﬁts from a well-established planning system, which is supportive
+       of data centres under National Planning Framework 4 (NP4).
+      There is theoretical competition between the North Lanarkshire site and an AI
+       Growth Zone in North East England, linked to UK Government plans for data
+       centres and AIGZs.
+      The project is viewed as a test case for Scotland’s ability to mobilise quickly with
+       strong ministerial backing.
+      Director of Economic Development tasked with pulling together a coherent Team
+       Scotland response to ensure Scotland secures the investment and does not lose
+       out due to public sector inaction.
+      Key question: How can the public sector support the investment proposals
+       without pre-judging the planning process, while providing assurance that, if
+       requirements are met, timelines can be achieved?
+
+
+3. UKG engagement and potential announcement
+
+
+      Ongoing engagement with UKG, focused on AI Growth Zones (AIGZ) initiative
+      A 500MW data centre is required to be operational and powered by 2030.
+      Work is ongoing in close collaboration with Energy Policy and PARD to address
+       infrastructure needs.
+      NESO connection reform will play a signiﬁcant role in identifying a suitable
+       Scottish AIGZ location, but it will not resolve the challenge on its own.
+      CoreWeave’s £1.5bn investment into DataVita was initially announced through
+       the UKG’s Tech Prosperity Deal.
+
